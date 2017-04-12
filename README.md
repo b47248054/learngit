@@ -1,2 +1,4 @@
 # learngit
-just learn git 
+just learn git
+
+use markdown 
