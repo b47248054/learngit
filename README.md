@@ -3,4 +3,6 @@ just learn git
 
 use markdown
 
-create a new branch is quick. 
+create a new branch is quick.
+
+merge master 
